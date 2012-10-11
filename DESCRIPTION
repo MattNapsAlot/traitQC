@@ -1,0 +1,10 @@
+Package: traitQC
+Title: Data Transformations for Clinical Trait QC
+Version: 0.1.0
+Date: 2008-10-15
+Author: Matt Furia
+Maintainer: Matt Furia <Matthew_Furia@Merck.Com>
+Depends: MASS, RODBC
+Description: Classes and methods for transforming clinical trait data
+License: Artistic
+
